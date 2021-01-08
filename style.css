@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+}
+
+.home-div {
+    border: 3px solid red;
+    text-align: center
+}
+
+#travel1 {
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+#contact iframe {
+    width: 100%
+}
+
+row:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.life_div {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    background: 1px solid #c7c7c7;
+}
+
+.life_div img {
+    width: 100%;
+    height: 300px;
+}
+
+.life_div hr {
+    width: 100%;
+}
+
+.life_div p{
+    margin-left: 20px;
+}
+
+.achievid{
+    padding-bottom: 10px;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.achiev_text span {
+ color: orange;
+}
+
+#new1{
+    height: 140px;
+    width: 170px;
+}
+
+#new2{
+    height: 140px;
+    width: 170px;
+}
+
+#li2{
+    margin-top: 150px;
+}
